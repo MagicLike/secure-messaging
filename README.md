@@ -3,8 +3,10 @@ Do you care about privacy? If yes you're at the right place to find a secure mes
 Underneath I listed a few.
 
 ### [Threema](https://threema.ch)
-Probably one of the most secure messengers in the world
+Probably one of the most secure messengers in the world <br>
+
 cost: 3.62 €*
+
 * [GitHub](https://github.com/threema-ch)
 * [Download](https://threema.ch/download)
 
@@ -12,6 +14,9 @@ cost: 3.62 €*
 
 ### [Signal](https://signal.org)
 The most comfortable solution without security loss
+
+cost: free
+
 * [GitHub](https://github.com/signalapp)
 * [Download](https://www.signal.org/download/)
 
@@ -19,6 +24,9 @@ The most comfortable solution without security loss
 
 ### [Tox](https://tox.chat)
 The **not finished** one
+
+cost: free
+
 * [GitHub](https://github.com/TokTok)
 * [Download](https://tox.chat/download.html)
 
