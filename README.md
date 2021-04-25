@@ -5,7 +5,7 @@ Underneath I listed a few.
 ### [Threema](https://threema.ch)
 Probably one of the most secure messengers in the world <br>
 
-cost: 3.62 €*
+cost: 3.62 €
 
 * [GitHub](https://github.com/threema-ch)
 * [Download](https://threema.ch/download)
